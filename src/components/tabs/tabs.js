@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useLocation, withRouter } from 'react-router';
-import { action, cloud, cameraIcon, closeIcon, cloudActive, contact, notification, scanIcon, tabs, tabsActive, uploadIcon, notificationActive } from '../../assets/images';
+import { action, cloud, cameraIcon, closeIcon, cloudActive, contact, notification, scanIcon, tabs, tabsActive, uploadIcon } from '../../assets/images';
 
 const Tabs = ({history}) => {
 
